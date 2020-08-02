@@ -1,0 +1,25 @@
+{
+  "name": "active-class-name",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Remy Sharp <remy@leftlogic.com>",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "@types/react": "^16.9.38",
+    "install": "^0.13.0",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.2",
+    "next": "latest",
+    "npm": "^6.14.7",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^5.1.1",
+    "swr": "^0.2.3",
+    "typescript": "^3.9.5"
+  },
+  "license": "ISC"
+}
