@@ -13,7 +13,7 @@ function IndexPage({ resultProps }) {
     <Store >
       <Cons starData={resultProps}/>
       <main> 
-        <h1>StarWArs API Test</h1>
+        <h1>StarWArs API Test on the left side !!!</h1>
       </main>
   <h1>{resultProps.map(star=><li><Link href="/posts/[id]" as={`/posts/${star}`}><a>{star}</a></Link></li>)}</h1>
 
